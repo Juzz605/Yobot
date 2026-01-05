@@ -2,16 +2,23 @@
 Yobot – A Simple React-Based Chatbot
 
 📖 Project Description
+
 Yobot is a lightweight, front-end chatbot application built using React (via CDN) and JavaScript. The project demonstrates core React concepts such as components, state management, props, event handling, and dynamic rendering. Yobot simulates a conversational interface where users can send messages and receive automated responses from a rule-based chatbot engine.
 
 🎯 Objectives
+
 To understand the fundamentals of React without using build tools
+
 To implement component-based UI design
+
 To manage chat messages using React state
+
 To simulate real-time chat interaction
+
 To prepare a base structure for future AI integration
 
 🛠️ Technologies Used
+
 HTML5 – Application structure
 CSS3 – Chat UI styling
 JavaScript (ES6) – Logic and events
